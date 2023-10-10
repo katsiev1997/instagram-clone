@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 53px;
+  width: 100%;
+}
+
+.container {
+  max-width: 935px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 103px;
+  height: 29px;
+}
